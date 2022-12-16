@@ -13,7 +13,7 @@ public class Main {
 
         // I added my codes, Yusuf Ziya.
 
-        // line 12 require some changes
+        // Line 12 require some changes
 
     }
 

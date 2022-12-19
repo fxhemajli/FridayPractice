@@ -7,6 +7,21 @@ public class Main {
         // i added my codes Magbule
 
         // I added my codes, Yusuf Ziya.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // i wrote my codes
     }
 
 }

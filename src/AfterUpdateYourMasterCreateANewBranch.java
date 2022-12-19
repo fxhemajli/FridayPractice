@@ -3,7 +3,7 @@ public class AfterUpdateYourMasterCreateANewBranch {
         String str = "Albert Shima";
         char[] ch = str.toCharArray();
         for (char c : ch) {
-            System.out.println(c);
+            System.out.print(c+" ");
         }
     }
 }

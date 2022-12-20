@@ -5,7 +5,7 @@ public class AfterUpdateYourMasterCreateANewBranch {
         for (char c : ch) {
             System.out.print(c+" ");
 
-            // hello Albert, what code you writing here?:)
+            // Hello Albert, what code you writing here?:)
         }
     }
 }

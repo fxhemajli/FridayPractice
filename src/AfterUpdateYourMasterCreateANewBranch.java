@@ -4,6 +4,8 @@ public class AfterUpdateYourMasterCreateANewBranch {
         char[] ch = str.toCharArray();
         for (char c : ch) {
             System.out.print(c+" ");
+
+            // hello Albert, what code you writing here?:)
         }
     }
 }
